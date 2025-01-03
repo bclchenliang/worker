@@ -1,0 +1,50 @@
+[
+    {
+        "figure_id": "图3.2.1",
+        "figure_name": "工厂信息系统总体架构",
+        "pageon": "16",
+        "figure_remark": ""
+    },
+    {
+        "figure_id": "图3.4.1",
+        "figure_name": "工厂信息管理系统集成模型",
+        "pageon": "17",
+        "figure_remark": ""
+    },
+    {
+        "figure_id": "图5.1.1",
+        "figure_name": "石油化工工厂MES功能模型",
+        "pageon": "22",
+        "figure_remark": ""
+    },
+    {
+        "figure_id": "图5.1.2",
+        "figure_name": "MES逻辑结构",
+        "pageon": "23",
+        "figure_remark": ""
+    },
+    {
+        "figure_id": "图6.1.2",
+        "figure_name": "经营管理系统逻辑结构",
+        "pageon": "28",
+        "figure_remark": ""
+    },
+    {
+        "figure_id": "图1",
+        "figure_name": "MES国际联合会MES功能模型",
+        "pageon": "57",
+        "figure_remark": ""
+    },
+    {
+        "figure_id": "图2",
+        "figure_name": "综合信息管理系统逻辑结构",
+        "pageon": "73",
+        "figure_remark": ""
+    },
+    {
+        "figure_id": "图3",
+        "figure_name": "管理信息网与过程控制网一体化设计示意",
+        "pageon": "81",
+        "figure_remark": ""
+    }
+]

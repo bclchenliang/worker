@@ -1,0 +1,367 @@
+[
+    {
+        "figure_id": "图5.1.6",
+        "figure_name": "地震影响系数曲线",
+        "pageon": "45"
+    },
+    {
+        "figure_id": "图5.1.6",
+        "figure_name": "地震影响系数曲线",
+        "pageon": "50"
+    },
+    {
+        "figure_id": "图5.2.1",
+        "figure_name": "结构水平地震作用计算简图",
+        "pageon": "54"
+    },
+    {
+        "figure_id": "图5.3.1",
+        "figure_name": "结构竖向地震作用计算简图",
+        "pageon": "58"
+    },
+    {
+        "figure_id": "图6.1.6",
+        "figure_name": "排架柱与框架柱连接示意",
+        "pageon": "66"
+    },
+    {
+        "figure_id": "图6.1.6",
+        "figure_name": "排架柱与框架柱连接示意",
+        "pageon": "72"
+    },
+    {
+        "figure_id": "图6.3.13",
+        "figure_name": "对角斜筋配置示意",
+        "pageon": "89"
+    },
+    {
+        "figure_id": "unkown_1",
+        "figure_name": "61_84_1149_165",
+        "pageon": "91"
+    },
+    {
+        "figure_id": "图6.4.6",
+        "figure_name": "抗震墙约束边缘构件（端柱和暗柱）",
+        "pageon": "91"
+    },
+    {
+        "figure_id": "unkown_2",
+        "figure_name": "62_899_1112_1114",
+        "pageon": "91"
+    },
+    {
+        "figure_id": "图6.4.7",
+        "figure_name": "抗震墙的构造边缘构件范围",
+        "pageon": "92"
+    },
+    {
+        "figure_id": "图7.4.4-1+",
+        "figure_name": "字形截面柱截面",
+        "pageon": "109"
+    },
+    {
+        "figure_id": "图7.4.42",
+        "figure_name": "端节点斜向加劲助位置",
+        "pageon": "110"
+    },
+    {
+        "figure_id": "图7.4.5",
+        "figure_name": "契形加液节点",
+        "pageon": "110"
+    },
+    {
+        "figure_id": "图7.5.5",
+        "figure_name": "样问支撑节点连接计算",
+        "pageon": "114"
+    },
+    {
+        "figure_id": "unkown_3",
+        "figure_name": "实腹柱",
+        "pageon": "116"
+    },
+    {
+        "figure_id": "图7.5.8",
+        "figure_name": "杯口插入式柱脚",
+        "pageon": "118"
+    },
+    {
+        "figure_id": "图7.6.1",
+        "figure_name": "柱间支撑布置",
+        "pageon": "122"
+    },
+    {
+        "figure_id": "图7.6.3",
+        "figure_name": "按拉杆设计的交叉形支撑计算",
+        "pageon": "123"
+    },
+    {
+        "figure_id": "图7.6.5",
+        "figure_name": "框排架结构柱问支撑形式",
+        "pageon": "125"
+    },
+    {
+        "figure_id": "unkown_4",
+        "figure_name": "56_743_1027_1012",
+        "pageon": "126"
+    },
+    {
+        "figure_id": "unkown_5",
+        "figure_name": "04_747_622_1010",
+        "pageon": "126"
+    },
+    {
+        "figure_id": "unkown_6",
+        "figure_name": "68_746_990_1009",
+        "pageon": "126"
+    },
+    {
+        "figure_id": "unkown_7",
+        "figure_name": "",
+        "pageon": "127"
+    },
+    {
+        "figure_id": "图7.6.10",
+        "figure_name": "耗能梁段截面",
+        "pageon": "129"
+    },
+    {
+        "figure_id": "图7.6.12",
+        "figure_name": "耗能梁段的加劲肋",
+        "pageon": "133"
+    },
+    {
+        "figure_id": "图7.6.15",
+        "figure_name": "支撑斜杆与框架梁连接",
+        "pageon": "135"
+    },
+    {
+        "figure_id": "图7.7.5",
+        "figure_name": "带抗剪键的柱脚构造",
+        "pageon": "137"
+    },
+    {
+        "figure_id": "图7.7.6",
+        "figure_name": "刚架节点构造",
+        "pageon": "138"
+    },
+    {
+        "figure_id": "unkown_8",
+        "figure_name": "柱强轴方向刚接",
+        "pageon": "139"
+    },
+    {
+        "figure_id": "unkown_9",
+        "figure_name": "平加劲肋",
+        "pageon": "140"
+    },
+    {
+        "figure_id": "图8.2.7",
+        "figure_name": "导向装置荷载分配",
+        "pageon": "143"
+    },
+    {
+        "figure_id": "图15.2.3",
+        "figure_name": "焦炉基础的纵向计算简图",
+        "pageon": "203"
+    },
+    {
+        "figure_id": "图17.2.3-1",
+        "figure_name": "独立式支架的计算单元",
+        "pageon": "218"
+    },
+    {
+        "figure_id": "图17.2.3-2",
+        "figure_name": "管廊式支架的计算单元",
+        "pageon": "218"
+    },
+    {
+        "figure_id": "图18.2.5",
+        "figure_name": "池壁顶端水平地震作用及其效应",
+        "pageon": "228"
+    },
+    {
+        "figure_id": "图18.2.6",
+        "figure_name": "池壁动液压力及其效应",
+        "pageon": "229"
+    },
+    {
+        "figure_id": "图18.2.7",
+        "figure_name": "池壁动土压力及其效应",
+        "pageon": "231"
+    },
+    {
+        "figure_id": "图20.2.3-1",
+        "figure_name": "球罐结构",
+        "pageon": "240"
+    },
+    {
+        "figure_id": "unkown_10",
+        "figure_name": "",
+        "pageon": "241"
+    },
+    {
+        "figure_id": "图24.2.8",
+        "figure_name": "索道支架横向计算简图",
+        "pageon": "257"
+    },
+    {
+        "figure_id": "unkown_11",
+        "figure_name": "7_265_1164_483",
+        "pageon": "287"
+    },
+    {
+        "figure_id": "unkown_12",
+        "figure_name": "6_269_1164_487",
+        "pageon": "288"
+    },
+    {
+        "figure_id": "unkown_13",
+        "figure_name": "4_257_1167_492",
+        "pageon": "289"
+    },
+    {
+        "figure_id": "unkown_14",
+        "figure_name": "3_262_1164_488",
+        "pageon": "290"
+    },
+    {
+        "figure_id": "unkown_15",
+        "figure_name": "0_252_1169_496",
+        "pageon": "291"
+    },
+    {
+        "figure_id": "unkown_16",
+        "figure_name": "9_253_1166_492",
+        "pageon": "292"
+    },
+    {
+        "figure_id": "unkown_17",
+        "figure_name": "0_795_1165_1049",
+        "pageon": "292"
+    },
+    {
+        "figure_id": "unkown_18",
+        "figure_name": "2_245_1168_500",
+        "pageon": "293"
+    },
+    {
+        "figure_id": "图E.0.1-1",
+        "figure_name": "",
+        "pageon": "298"
+    },
+    {
+        "figure_id": "图F.0.1",
+        "figure_name": "纵向柱列支撑布置",
+        "pageon": "301"
+    },
+    {
+        "figure_id": "unkown_19",
+        "figure_name": "_143_1163_1223",
+        "pageon": "304"
+    },
+    {
+        "figure_id": "unkown_20",
+        "figure_name": "_744_1135_1172",
+        "pageon": "305"
+    },
+    {
+        "figure_id": "unkown_21",
+        "figure_name": "0_810_997_1143",
+        "pageon": "305"
+    },
+    {
+        "figure_id": "图G.0.1",
+        "figure_name": "有横梁时支柱侧移刚度计算",
+        "pageon": "307"
+    },
+    {
+        "figure_id": "图H.0.2",
+        "figure_name": "焦炉基础纵向各部位的结构隔离体",
+        "pageon": "310"
+    },
+    {
+        "figure_id": "图J.0.1--",
+        "figure_name": "--端铰支一端自由的横向计算",
+        "pageon": "312"
+    },
+    {
+        "figure_id": "unkown_22",
+        "figure_name": "2_80_1132_346",
+        "pageon": "320"
+    },
+    {
+        "figure_id": "图M.0.2",
+        "figure_name": "尾矿坝坝体动态分布系数",
+        "pageon": "320"
+    },
+    {
+        "figure_id": "unkown_23",
+        "figure_name": "0_367_958_614",
+        "pageon": "321"
+    },
+    {
+        "figure_id": "unkown_24",
+        "figure_name": "1_631_1125_1069",
+        "pageon": "321"
+    },
+    {
+        "figure_id": "图1",
+        "figure_name": "天轮梁的支承横梁",
+        "pageon": "414"
+    },
+    {
+        "figure_id": "unkown_25",
+        "figure_name": "0_903_1055_1097",
+        "pageon": "427"
+    },
+    {
+        "figure_id": "unkown_26",
+        "figure_name": "=0.58Hz",
+        "pageon": "427"
+    },
+    {
+        "figure_id": "图2",
+        "figure_name": "，不同倾斜角对自振频率振幅的影响",
+        "pageon": "428"
+    },
+    {
+        "figure_id": "图3",
+        "figure_name": "最大径向位移与倾斜角的关系",
+        "pageon": "428"
+    },
+    {
+        "figure_id": "unkown_27",
+        "figure_name": "2_57_1134_223",
+        "pageon": "435"
+    },
+    {
+        "figure_id": "图4",
+        "figure_name": "唐山焦化厂焦炉震害",
+        "pageon": "435"
+    },
+    {
+        "figure_id": "图5",
+        "figure_name": "组台式空间管道支架",
+        "pageon": "444"
+    },
+    {
+        "figure_id": "图6",
+        "figure_name": "各种管托的地震作用位置",
+        "pageon": "446"
+    },
+    {
+        "figure_id": "图7",
+        "figure_name": "防止管道滑落的构造措施",
+        "pageon": "450"
+    },
+    {
+        "figure_id": "图8",
+        "figure_name": "",
+        "pageon": "458"
+    },
+    {
+        "figure_id": "图9",
+        "figure_name": "自由液体质量和固定液体质量示意",
+        "pageon": "459"
+    }
+]
